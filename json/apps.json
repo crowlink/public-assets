@@ -3,7 +3,7 @@
     "name": "Hiddify",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480",
     "link": "hiddify://install-sub?url={url}&name=SUBnew",
-    "os": ["Windows", "Linux,","iOS","Android"],
+    "os": ["Windows","Linux","iOS","Android"],
     "downloadLinks": {
       "Windows": "https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe",
       "Linux": "https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Debian-x64.deb",
