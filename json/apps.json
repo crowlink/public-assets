@@ -15,8 +15,7 @@
       {
     "name": "Karing",
     "image": "https://avatars.githubusercontent.com/u/131734194?s=200&v=4",
-    "link": "hiddify://install-sub?url={url}&name=SUBnew",
-    "os": ["Windows","Linux","iOS","Android"],
+     "os": ["Windows","Linux","iOS","Android"],
     "downloadLinks": {
       "Windows": "https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe",
       "Linux": "https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Debian-x64.deb",
