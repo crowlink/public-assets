@@ -3,13 +3,13 @@
     "name": "WhatsApp",
     "nameFa": "واتس اپ",
     "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/WhatsApp.svg",
-    "contact_link": "https://wa.me/yuour-number"
+    "contact_link": "https://wa.me/your-number"
   },
   {
     "name": "Telegram",
     "nameFa": "تلگرام",
     "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Telegram.svg",
-    "contact_link": "https://t.me/yoour-username"
+    "contact_link": "https://t.me/your-username"
   },
   {
     "name": "Instagram",
@@ -21,6 +21,6 @@
     "name": "Phone Number",
     "nameFa": "شماره تلفن",
     "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Phone_iOS.png",
-    "contact_link": "tel:+youur-phone-number"
+    "contact_link": "tel:+your-phone-number"
   }
 ]
