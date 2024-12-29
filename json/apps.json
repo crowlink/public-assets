@@ -8,9 +8,8 @@
       "Windows": "https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe",
       "Linux": "https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Debian-x64.deb",
       "iOS": "https://apps.apple.com/us/app/streisand/id6450534064",
-      "Android": "https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Android-universal.apk",
-       
-    },
+      "Android": "https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Android-universal.apk"
+         },
     "ShowInMenu": true
   },
   {
