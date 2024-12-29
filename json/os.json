@@ -69,6 +69,15 @@
       "engName": "Windows",
       "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Windows_logo_2021.svg.png",
       "apps": [
+        	          {
+          "name": "Hiddify",
+          "price": "0",
+          "logo": "https://store-images.s-microsoft.com/image/apps.11245.14155126203361258.5bed0304-dfff-4ff6-8d04-2e8186b86297.04f73a7e-fb28-451a-9e5a-3bc55ebe67bf?h=210",
+          "description": "A Windows V2Ray client with GUI support.",
+          "faDescription": "Hiddify یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe",
+          "videoLink": "https://example.com/v2rayn-video"
+        },
         {
           "name": "V2rayN",
           "price": "0",
